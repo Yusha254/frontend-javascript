@@ -1,3 +1,3 @@
-# alx-frontend-javascript
+# frontend-javascript
 
 A copy of the alx-frontend-javascript repo
